@@ -15,6 +15,9 @@
   backdrop-filter: blur(2px);
   background-color: rgba(255, 255, 255, 0.35);
   color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  letter-spacing: 0.01rem;
   padding: 20px;
   text-align: center;
 }
@@ -31,6 +34,7 @@
   color: white;
   display: flex;
   justify-content: center;
+  margin-bottom: 5px;
   text-decoration: none;
 }
 .cardLinks a:visited {
