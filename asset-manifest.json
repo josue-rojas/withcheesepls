@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/withcheesepls/static/css/main.b4158e9e.chunk.css",
-    "main.js": "/withcheesepls/static/js/main.e4ad1ed1.chunk.js",
-    "main.js.map": "/withcheesepls/static/js/main.e4ad1ed1.chunk.js.map",
-    "runtime-main.js": "/withcheesepls/static/js/runtime-main.265ee204.js",
-    "runtime-main.js.map": "/withcheesepls/static/js/runtime-main.265ee204.js.map",
-    "static/js/2.8ce92e38.chunk.js": "/withcheesepls/static/js/2.8ce92e38.chunk.js",
-    "static/js/2.8ce92e38.chunk.js.map": "/withcheesepls/static/js/2.8ce92e38.chunk.js.map",
-    "static/js/3.770f7853.chunk.js": "/withcheesepls/static/js/3.770f7853.chunk.js",
-    "static/js/3.770f7853.chunk.js.map": "/withcheesepls/static/js/3.770f7853.chunk.js.map",
-    "index.html": "/withcheesepls/index.html",
-    "static/css/main.b4158e9e.chunk.css.map": "/withcheesepls/static/css/main.b4158e9e.chunk.css.map",
-    "static/js/2.8ce92e38.chunk.js.LICENSE.txt": "/withcheesepls/static/js/2.8ce92e38.chunk.js.LICENSE.txt",
-    "static/media/App.module.css": "/withcheesepls/static/media/background.7d8ae613.jpg",
-    "static/media/link.3b917643.svg": "/withcheesepls/static/media/link.3b917643.svg"
+    "main.css": "/static/css/main.e8a09de9.chunk.css",
+    "main.js": "/static/js/main.e4ad1ed1.chunk.js",
+    "main.js.map": "/static/js/main.e4ad1ed1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.acb9f2b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.acb9f2b7.js.map",
+    "static/js/2.8ce92e38.chunk.js": "/static/js/2.8ce92e38.chunk.js",
+    "static/js/2.8ce92e38.chunk.js.map": "/static/js/2.8ce92e38.chunk.js.map",
+    "static/js/3.770f7853.chunk.js": "/static/js/3.770f7853.chunk.js",
+    "static/js/3.770f7853.chunk.js.map": "/static/js/3.770f7853.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e8a09de9.chunk.css.map": "/static/css/main.e8a09de9.chunk.css.map",
+    "static/js/2.8ce92e38.chunk.js.LICENSE.txt": "/static/js/2.8ce92e38.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/static/media/background.7d8ae613.jpg",
+    "static/media/link.3b917643.svg": "/static/media/link.3b917643.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.265ee204.js",
+    "static/js/runtime-main.acb9f2b7.js",
     "static/js/2.8ce92e38.chunk.js",
-    "static/css/main.b4158e9e.chunk.css",
+    "static/css/main.e8a09de9.chunk.css",
     "static/js/main.e4ad1ed1.chunk.js"
   ]
 }
