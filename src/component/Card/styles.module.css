@@ -1,0 +1,42 @@
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card :first-child {
+  border-radius: 10px 10px 0 0;
+}
+
+.card :last-child {
+  border-radius: 0 0 10px 10px;
+}
+
+.cardHeading {
+  backdrop-filter: blur(2px);
+  background-color: rgba(255, 255, 255, 0.35);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.cardLinks {
+  backdrop-filter: blur(2px);
+  background-color: rgb(255 255 255 / 11%);
+  color: white;
+  padding: 20px;
+}
+
+.cardLinks a {
+  align-items: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+.cardLinks a:visited {
+  color: white;
+}
+
+.linkIcon {
+  margin-left: 10px;
+}
