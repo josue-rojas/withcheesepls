@@ -13,6 +13,15 @@ const MyLinks: LinkTree = [
     ]
   },
   {
+    header: 'Support',
+    links: [
+      {
+        title: 'Pelham Parkway Friends',
+        href: 'https://www.instagram.com/pelhamparkwayfriends/'
+      }
+    ]
+  },
+  {
     header: 'Personal',
     links: [
       {
@@ -24,7 +33,7 @@ const MyLinks: LinkTree = [
         href: 'http://instagram.com/withcheesepls/'
       }
     ]
-  }
+  },
 ]
 
 function App() {
