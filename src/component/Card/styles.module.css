@@ -12,32 +12,34 @@
 }
 
 .cardHeading {
-  backdrop-filter: blur(2px);
-  background-color: rgba(255, 255, 255, 0.35);
   color: white;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-weight: bold;
   letter-spacing: 0.01rem;
   padding: 20px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .cardLinks {
-  backdrop-filter: blur(2px);
-  background-color: rgb(255 255 255 / 11%);
-  color: white;
-  padding: 20px;
+  color: #05fbff;
+  margin-bottom: 20px;
 }
 
 .cardLinks a {
   align-items: center;
-  color: white;
+  color: #05fbff;
   display: flex;
   justify-content: center;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   text-decoration: none;
+  transition: 0.4s color;
 }
 .cardLinks a:visited {
+  color: #05fbff;
+}
+
+.cardLinks a:hover {
   color: white;
 }
 

@@ -1,7 +1,5 @@
 import { LinkTree, Link } from '../../types'
 import styles from './styles.module.css';
-import Icon from '../Icon'
-import LinkIcon from '../../assets/link.svg';
 
 interface CartProps {
   linkTree: LinkTree
@@ -18,7 +16,6 @@ const CardLinks = ({ links }: { links: Link[]; }) => (
         <>
           <a href={href}>
             {title} {isSameDomain}
-            <Icon src={LinkIcon} className={styles.linkIcon}/>
           </a>
         </>
       ))
@@ -30,10 +27,10 @@ const CardLinks = ({ links }: { links: Link[]; }) => (
 const Card = ({ linkTree }: CartProps) => {
   const createLinks = (linkTree: LinkTree) => {
     return linkTree.map(({ header, links }) => {
-      return <>
+      return <div>
         <Header header={header} />
         <CardLinks links={links}/>
-      </>
+      </div>
     })
   }
   return <div className={styles.card}>
