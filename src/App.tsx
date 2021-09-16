@@ -31,6 +31,10 @@ const MyLinks: LinkTree = [
       {
         title: 'Instagram',
         href: 'http://instagram.com/withcheesepls/'
+      },
+      {
+        title: 'Twitter',
+        href: 'https://twitter.com/withcheesepls/'
       }
     ]
   },
